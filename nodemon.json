@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_USER": "cccmongodb",
+        "MONGO_PASSWORD": "ccc1_mongodb",
+        "MONGO_DB": "learningdb",
+        "MONGO_CLUSTER": "cc-cluster.tyb3i.mongodb.net",
+        "PORT": 9000
+    }
+}
